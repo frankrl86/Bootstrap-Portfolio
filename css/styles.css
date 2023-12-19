@@ -11,6 +11,11 @@ body {
   --bs-body-font-weight: 300;
 }
 
+.avatar-size {
+  width: 250px;
+  height: 250px;
+}
+
 .container {
   height: 100%;
   max-width: 960px;
