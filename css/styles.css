@@ -44,3 +44,7 @@ footer {
 .element-focus:hover {
   background: var(--bs-primary);
 }
+
+.project-link:hover {
+  background: whitesmoke;
+}
